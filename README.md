@@ -1,6 +1,6 @@
 # Hi, I’m William Xu 👋
 
-**Computer Engineering @ Texas A&M**  
+**Rising Senior Computer Engineering @ Texas A&M**  
 *Bridging code and the physical world through robotics, embedded systems, and data-driven projects.*
 
 ---
