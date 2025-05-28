@@ -73,7 +73,7 @@ Python + Selenium + MySQL
 ## 💬 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/william-xuuu/)
-- Email: [your@email.com] <!-- replace with your preferred contact, or remove if not desired -->
+- Email: [williamsxuu at gmail.com]
 - Always open to collaborations, mentoring, or chatting about robotics, embedded systems, or cool tech!
 
 ---
