@@ -42,7 +42,7 @@ Here are a few projects and codebases you’ll find on my GitHub:
 | [leetcode](https://github.com/will-iamxu/leetcode) | My LeetCode problems & solutions with an autosorter. | Python (100%) |
 | [spotify-avatar](https://github.com/will-iamxu/spotify-avatar) | Generate a fun Spotify avatar and playlist summary with a type-safe React frontend. | TypeScript (94.4%), JavaScript (3.8%), CSS (1.8%) |
 | [resumeOptimizer](https://github.com/will-iamxu/resumeOptimizer) | Tools for resume parsing and keyword optimization. | Python (65.4%), HTML (29.1%), Batchfile (5.5%) |
-| [CSNews](https://github.com/will-iamxu/CSNews) | Aggregates and surfaces trending computer science news. | JavaScript (100%) |
+| [CSNews](https://github.com/will-iamxu/CSNews) | Aggregates and surfaces trending Counter-Strike news. | JavaScript (100%) |
 
 ---
 
