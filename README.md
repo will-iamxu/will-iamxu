@@ -5,6 +5,14 @@
 
 ---
 
+## 💬 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/william-xuuu/)
+- Email: [williamsxuu at gmail.com]
+- Always open to collaborations, mentoring, or chatting about robotics, embedded systems, or cool tech!
+
+---
+
 ## 🚀 About Me
 
 I’m most motivated when I get to work on systems that interface directly with the physical world. That’s why I dove into underwater robotics research, where I developed sonar-based mapping tools and robust control systems in ROS2. My journey blends hands-on hardware work with software engineering, from building real-time sensor suites to deploying ML models that drive smarter systems.
@@ -67,14 +75,6 @@ Python + Selenium + MySQL
 - **Peer Tutor:** ENGR 102 @ Texas A&M – Helped students master Python and engineering fundamentals.
 - **Research Intern:** NSF-funded robotics research, focusing on field deployments and robust sensor fusion.
 - **Undergraduate Researcher:** Designed and deployed sonar-based mapping/control systems for underwater robotics.
-
----
-
-## 💬 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/william-xuuu/)
-- Email: [williamsxuu at gmail.com]
-- Always open to collaborations, mentoring, or chatting about robotics, embedded systems, or cool tech!
 
 ---
 
