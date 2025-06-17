@@ -15,7 +15,7 @@
 
 I’m most motivated when I get to work on systems that interface directly with the physical world. That’s why I dove into underwater robotics research, where I developed sonar-based mapping tools and robust control systems in ROS2. My journey blends hands-on hardware work with software engineering, from building real-time sensor suites to deploying ML models that drive smarter systems.
 
-- 🔬**Underwater Robotics Researcher:** Built sonar-based SLAM and control systems for BlueREV, an autonomous underwater robot.
+-  **Underwater Robotics Researcher:** Built sonar-based SLAM and control systems for BlueREV, an autonomous underwater robot.
 -  **Data-Driven Problem Solver:** Optimized user engagement at Palos Verdes Pulse with ML-powered article curation (120% increase in engagement).
 -  **Peer Tutor:** Helped fellow Aggies master Python and problem-solving in ENGR 102.
 -  **NSF Research Intern:** Led field trials, boosted deployment success, and improved robot vision with advanced sensor fusion.
