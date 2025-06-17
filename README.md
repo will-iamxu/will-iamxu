@@ -1,8 +1,6 @@
 # Hi, I’m William Xu 👋
 
 **Rising Senior Computer Engineering @ Texas A&M**  
-*Bridging code and the physical world through robotics, embedded systems, and data-driven projects.*
-
 ---
 
 ## 💬 Let’s Connect!
@@ -13,19 +11,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m most motivated when I get to work on systems that interface directly with the physical world. That’s why I dove into underwater robotics research, where I developed sonar-based mapping tools and robust control systems in ROS2. My journey blends hands-on hardware work with software engineering, from building real-time sensor suites to deploying ML models that drive smarter systems.
 
-- 🔬 **Underwater Robotics Researcher:** Built sonar-based SLAM and control systems for BlueREV, an autonomous underwater robot.
-- 🎯 **Data-Driven Problem Solver:** Optimized user engagement at Palos Verdes Pulse with ML-powered article curation (120% increase in engagement).
-- 🤝 **Peer Tutor:** Helped fellow Aggies master Python and problem-solving in ENGR 102.
-- 🧑‍🔬 **NSF Research Intern:** Led field trials, boosted deployment success, and improved robot vision with advanced sensor fusion.
-- 🛠️ **Builder @ Heart:** From web apps to microcontrollers, I enjoy tackling projects that make a tangible impact.
-
+- 🔬**Underwater Robotics Researcher:** Built sonar-based SLAM and control systems for BlueREV, an autonomous underwater robot.
+-  **Data-Driven Problem Solver:** Optimized user engagement at Palos Verdes Pulse with ML-powered article curation (120% increase in engagement).
+-  **Peer Tutor:** Helped fellow Aggies master Python and problem-solving in ENGR 102.
+-  **NSF Research Intern:** Led field trials, boosted deployment success, and improved robot vision with advanced sensor fusion.
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:**  
 Python, Java, C++, C, R, SQL (PostgreSQL, MySQL), MongoDB/NoSQL, TypeScript, JavaScript, HTML/CSS, Assembly, Verilog
@@ -41,7 +37,7 @@ Agile, Scrum, CI/CD (Jenkins, Docker), DevOps, Kanban, Git Flow
 
 ---
 
-## 📌 Notable Repositories
+## Some Repositories
 
 Here are a few projects and codebases you’ll find on my GitHub:
 
@@ -54,7 +50,7 @@ Here are a few projects and codebases you’ll find on my GitHub:
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### EV Bettor
 *Automated sports betting system for positive expected value bets.*  
@@ -70,14 +66,6 @@ Python + Selenium + MySQL
 
 ---
 
-## 🧑‍🏫 Experience Highlights
-
-- **Peer Tutor:** ENGR 102 @ Texas A&M – Helped students master Python and engineering fundamentals.
-- **Research Intern:** NSF-funded robotics research, focusing on field deployments and robust sensor fusion.
-- **Undergraduate Researcher:** Designed and deployed sonar-based mapping/control systems for underwater robotics.
-
----
-
 <details>
   <summary>Fun Facts & More</summary>
 
@@ -88,5 +76,3 @@ Python + Selenium + MySQL
 </details>
 
 ---
-
-> “Bridging the gap between code and the real world, one robot at a time.”
