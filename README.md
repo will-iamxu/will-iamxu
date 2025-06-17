@@ -3,7 +3,7 @@
 **Rising Senior Computer Engineering @ Texas A&M**  
 ---
 
-## 💬 Let’s Connect!
+## Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/william-xuuu/)
 - Email: [williamsxuu at gmail.com]
