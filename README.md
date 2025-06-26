@@ -4,7 +4,7 @@
 ---
 
 ## Let’s Connect!
-
+- [Portfolio](https://willxu.xyz/)
 - [LinkedIn](https://www.linkedin.com/in/william-xuuu/)
 - Email: [williamsxuu at gmail.com]
 - Always open to collaborations, mentoring, or chatting about robotics, embedded systems, or cool tech!
