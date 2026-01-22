@@ -1,6 +1,6 @@
 # Hi, I’m William Xu 👋
 
-** Senior Computer Engineering @ Texas A&M**  
+**Senior Computer Engineering @ Texas A&M**  
 ---
 
 ## Let’s Connect!
